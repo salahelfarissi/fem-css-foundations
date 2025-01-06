@@ -11,6 +11,10 @@ body {
   font-family: var(--font-family);
 }
 
+p {
+  margin: 0;
+}
+
 a {
   color: inherit;
   text-decoration: inherit;
