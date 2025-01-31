@@ -1,6 +1,7 @@
 :root {
   --color-primary: #ff7b54;
   --color-text-on-primary: #fff;
+  --color-text-on-secondary: #000;
   --color-button-order: var(--color-text-on-primary);
 
   --color-button-primary-bg: var(--color-text-on-primary);
@@ -30,6 +31,7 @@ main {
   padding: 150px;
 }
 
+h2,
 p {
   margin: 0;
 }
